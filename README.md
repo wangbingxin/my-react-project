@@ -85,3 +85,9 @@
 	import {BrowserRouter as Router,Route,Link} from 'react-router-dom'
 
 > 安装的为4.0版本，引入方式及使用与2.0版本有所不同，详情请参考：http://www.jianshu.com/p/e3adc9b5f75c/
+
+#### axios请求接口数据
+
+安装axios包  
+  
+  npm install axios -S
